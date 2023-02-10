@@ -1,6 +1,6 @@
 #! /bin/bash
 #author:zhangzhenzhou0123@gmail.com
-#Remark：自动安装docker及docker-compose
+#备注：自动安装docker及docker-compose
 
 echo "---------开始安装---------"
 sleep 1
